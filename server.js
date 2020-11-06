@@ -31,6 +31,8 @@ connection.connect(function (err) {
     if (result[0].Count === 0) {
       seedDatabase();
       queryAllEmployees();
+    } else {
+      queryAllEmployees();
     }
   });
 });
