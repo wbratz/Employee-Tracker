@@ -1,0 +1,1 @@
+INSERT INTO employees_db.department (name) VALUES ('Turtle Sniffing'), ('Bat Flapping'), ('Dog Wagging'), ('Nut Krackin'), ('Butter Slathering');
